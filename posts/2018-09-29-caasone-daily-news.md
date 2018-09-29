@@ -1,4 +1,4 @@
-### [容器时代]技术日报(20180927)
+### [容器时代]技术日报(20180929)
 
 1. 迄今为止，最好的云计算开源软件 <https://mp.weixin.qq.com/s/FCoYBHIRagPADwEQIpOalQ>
 2. kubernetes简介：kube-dns和服务发现 <http://cizixs.com/2017/04/11/kubernetes-intro-kube-dns>
